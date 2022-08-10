@@ -1,0 +1,23 @@
+/*
+* **The fourth element**: a light green background, a font size of 24px, and bold
+*/
+
+.class {
+    background-color: #ffbcc1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: #13f;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(75, 255, 125);
+    font-size: 24px;
+    font-weight: bold;
+}
